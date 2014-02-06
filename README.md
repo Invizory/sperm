@@ -3,6 +3,8 @@
 theory that allows you to generate very large permutations without extra
 memory consumption.
 
+[![Build Status](https://travis-ci.org/Invizory/sperm.png)](https://travis-ci.org/bluepill-rb/bluepill)
+
 ## Installation
 Add this line to your application's Gemfile:
 ```ruby
