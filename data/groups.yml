@@ -1,0 +1,55 @@
+-
+  prime: 17
+  generator: 3
+  order_phi: 8
+  order_factors: [2, 2, 2, 2]
+-
+  prime: 107
+  generator: 2
+  order_phi: 52
+  order_factors: [2, 53]
+-
+  prime: 1019
+  generator: 2
+  order_phi: 508
+  order_factors: [2, 509]
+-
+  prime: 10007
+  generator: 5
+  order_phi: 5038
+  order_factors: [2, 5003]
+-
+  prime: 100043
+  generator: 2
+  order_phi: 50020
+  order_factors: [2, 50021]
+-
+  prime: 1000667
+  generator: 2
+  order_phi: 500332
+  order_factors: [2, 500333]
+-
+  prime: 10000223
+  generator: 5
+  order_phi: 5000110
+  order_factors: [2, 5000111]
+-
+  prime: 100000127
+  generator: 5
+  order_phi: 50000062
+  order_factors: [2, 50000063]
+-
+  prime: 1000000007
+  generator: 5
+  order_phi: 500000002
+  order_factors: [2, 500000003]
+-
+  prime: 1000099403
+  generator: 2
+  order_phi: 500049700
+  order_factors: [2, 500049701]
+-
+  prime: 4100000027
+  generator: 2
+  order_phi: 2050000012
+  order_factors: [2, 2050000013]

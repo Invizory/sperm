@@ -1,0 +1,26 @@
+#!/usr/bin/env ruby
+
+require 'sperm'
+require 'optparse'
+
+optparse = OptionParser.new do |opts|
+  opts.banner = "Usage: #{$PROGRAM_NAME} [options] order"
+
+  opts.on_tail '-p', '--permutation ORDER', Integer,
+               'Generate permutation of specified order' do |order|
+    Sperm.rand(order).each { |element| puts element }
+    exit
+  end
+
+  opts.on_tail '-h', '--help', 'Just display this help' do
+    puts opts
+    exit
+  end
+
+  opts.on_tail '-v', '--version', 'Just print the version infomation' do
+    puts "Sperm #{Sperm::VERSION}"
+    exit
+  end
+end
+
+optparse.parse!

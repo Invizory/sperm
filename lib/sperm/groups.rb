@@ -1,0 +1,6 @@
+require 'sperm/groups/additive'
+require 'sperm/groups/multiplicative'
+require 'sperm/groups/isomorphism'
+require 'sperm/groups/multiplicative_shuffler'
+require 'sperm/groups/intmod'
+require 'sperm/groups/collection'
