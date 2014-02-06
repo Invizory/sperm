@@ -4,6 +4,7 @@ theory that allows you to generate very large permutations without extra
 memory consumption.
 
 [![Build Status](https://travis-ci.org/Invizory/sperm.png)](https://travis-ci.org/bluepill-rb/bluepill)
+[![Code Climate](https://codeclimate.com/github/Invizory/sperm.png)](https://codeclimate.com/github/Invizory/sperm)
 
 ## Installation
 Add this line to your application's Gemfile:
