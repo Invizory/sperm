@@ -3,6 +3,7 @@
 theory that allows you to generate very large permutations without extra
 memory consumption.
 
+[![Gem Version](https://badge.fury.io/rb/sperm.png)](https://badge.fury.io/rb/sperm)
 [![Build Status](https://travis-ci.org/Invizory/sperm.png)](https://travis-ci.org/Invizory/sperm)
 [![Code Climate](https://codeclimate.com/github/Invizory/sperm.png)](https://codeclimate.com/github/Invizory/sperm)
 [![Coverage Status](https://coveralls.io/repos/Invizory/sperm/badge.png)](https://coveralls.io/r/Invizory/sperm)
