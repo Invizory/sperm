@@ -1,3 +1,4 @@
+require 'forwardable'
 require 'openssl'
 
 module Sperm::Groups
